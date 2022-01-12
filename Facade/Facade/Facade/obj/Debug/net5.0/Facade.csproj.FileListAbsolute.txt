@@ -1,0 +1,16 @@
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.AssemblyInfoInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.AssemblyInfo.cs
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.csproj.CoreCompileInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\Facade.exe
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\Facade.deps.json
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\Facade.runtimeconfig.json
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\Facade.runtimeconfig.dev.json
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\Facade.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\ref\Facade.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\bin\Debug\net5.0\Facade.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\ref\Facade.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.genruntimeconfig.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Facade\Facade\Facade\obj\Debug\net5.0\Facade.csproj.AssemblyReference.cache
